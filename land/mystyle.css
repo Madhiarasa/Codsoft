@@ -1,0 +1,40 @@
+body
+      {
+         background-color:grey;
+      }
+      
+      h5
+      {
+         background-color:bisque;
+      }
+      h1
+      {
+         background-color:red;
+      } 
+       
+       h3
+       {
+         background-color:white;
+       }
+
+       .img1
+       {
+         float:right;
+       }
+
+       .img2
+       {
+         float:left;
+       }
+        
+      .clearfix
+      {
+         overflow:auto
+      }
+      .flex-container
+      {
+         display:flex;
+         background-color:silver;
+         flex-direction:column;
+      }
+   
